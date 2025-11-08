@@ -65,14 +65,9 @@ I plan to continue growing this portfolio by adding new experiments, mini-projec
 
 ---
 
-## 🖼️ **AI/ML Learning Timeline (Visual Overview)**
-![AI/ML Learning Timeline](A_timeline_graphic_in_2D_digital_design_illustrate.png)
-
----
-
 ## 📫 **Connect**
 If you’d like to view my other projects or connect professionally:  
-- 🌐 [LinkedIn](https://www.linkedin.com/) *(add your link here)*  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/noor-zia/) 
 - 💻 GitHub Portfolio: [https://github.com/noorzia07](https://github.com/noorzia07)
 
 ---
